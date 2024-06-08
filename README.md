@@ -1,85 +1,110 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Project:</title>
+	<title>Module 2</title>
 </head>
-<body bgcolor="chocoloty">
-	<p>
-	<h1 align="center">
-    <div class="section-1">
-    <img src="kpps.jpeg" align="center"> Karakorum Paradise Public School</h1>
-    </div>
-    </p>
-
-
-
-
-
-
-	<div align="right">
-		<a href="HOME">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="ABOUT US">ABOUT US</a>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="SCHOOL LIFE">SCHOOL LIFE</a>
-	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="ADMISSION">ADMISSION</a>
-	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="CAREERS">CAREERS</a>
-	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="CAMPUSES">CAMPUSES</a>
-	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="CONTACT US">CONTACT US</a>
-	</div>
-	<br><br><br><br>
-	    <h2 align="center">INTRODUCTION</h2>
-	<p align="center">Karakorum Paradise Public Public School is a public sector in which both boys and girls can enhance their knowledge. Schooling provided between the class of nursery to tenth. Affiliated with FBISE (Federal Board Of Intermediate Secondory Education). </p>
-	    <br><br><br><br>
-	</div>
-	<p>    
-	<div class="section-2" align="center">    
-		<img src="School pic.webp">
-	</div>
-	<p>
-		<h2>About Us</h2>
-		<p>Karakorum Paradise Public nearly estrablished in 2015. Since now it is busy in burning the lamp of education amoung the people. At Starting time there were only 25 students  but know nearly 600 hundred children are getting education here.</p>
-		<sub-heading><b>Labs</b></sub-heading>
-		<p>There are computer as well separate labs for physics , chemistry and biology.
-		Student availing this opportunity welly and enhancing their skills in practicals labs.</p>
+<body>
+	<h1 align="center">OUR MENU</h1>
+	<div class="box">
+		<h align="right"><b>Chicken</b></h>
 		<p>
-			<b>Computer Lab:<b>
-		<br><br><br><img src="comp.jpg">
-		<img src="com.jpg" height="193" width="250">
-	    </p>
-	    <p>
-	    <b>Biology Lab:</b>	
-		<br><br><br><img src="bio.jpg">
-		<img src="b.jpg" height="170">
-	    </p>
-	    <p>
-	    <b>Physics Lab:</b>	
-		<br><br><br><img src="phy.jpg">
-		<img src="p.jpg" height="150">
-	    </p>
-	    <p>
-	    <b>Chemistry Lab:</b>	
-		<br><br><br><img src="che.jpg">
-		<img src="c.jpg" height="155">
-	    </p>
-	    <br><br><br><br><br>
-	    <footer align="center">
-	    	<h>Contact Us</h>
-	    	<p>Phone Number #  +92478876307</p>
-	    	<p>Address #  Karakorum Paradise Public School Shaheed Colony Near Police Line Skardu. </p>
-	    	<p>E-mail # shujaatashoor@gmail.com</p>
-	    	<p>*......THE END......*</p>
-	    </footer>
+			<sub-heading><b>Appetizers</b></sub-heading>
+<br>
+1. Chicken Wings (BBQ, Hot, or Honey Mustard)
+2. Chicken Tenders with Dipping Sauce
+3. Chicken Quesadilla
+<br>
+<sub-heading><b>Entrees</b></sub-heading>
+<br>
+1. Grilled Chicken Breast with Roasted Vegetables
+2. Chicken Parmesan with Spaghetti and Marinara Sauce
+3. Chicken Fajitas with Sauteed Onions and Bell Peppers
+4. Chicken Tikka Masala with Basmati Rice and Naan Bread
+5. Chicken Souvlaki with Greek Salad and Pita Bread
+<br>
+<sub-heading><b>Sandwiches</b></sub-heading>
+<br>
+1. Chicken Club Sandwich
+2. Chicken BLT Sandwich
+3. Chicken Caesar Wrap
+4. Chicken Burgers (various toppings)
+<br>
+<sub-heading><b>Specialties</b></sub-heading>
+<br>
+1. Chicken Cordon Bleu with Ham and Swiss Cheese
+2. Chicken Marsala with Mushrooms and Creamy Sauce
+3. Chicken Piccata with Capers and Lemon Butter
+4. Chicken Shawarma with Tahini Sauce and Pickled Turnips</p>
+	</div>
+	<br><br><br>	
+	<div  class="box">
+		<h align="right"><b>Beef</b></h>
+		<p>
+<sub-heading><b>Appetizers</b></sub-heading>
+<br>
+1. Beef Sliders with Caramelized Onions
+2. Beef Satay with Peanut Sauce
+3. Beef Empanadas with Chimichurri
+4. Beef Meatballs with Marinara Sauce
+<br>
+<sub-heading><b>Entrees</b></sub-heading>
+<br>
+1. Grilled Ribeye with Roasted Garlic Mashed Potatoes
+2. Beef Tenderloin with Red Wine Reduction
+3. Beef Wellington with Mushroom Duxelles
+4. Beef Fajitas with Sauteed Bell Peppers and Onions
+5. Beef Stroganoff with Egg Noodles and Creamy Sauce
+<br>
+<sub-heading><b>Sandwiches</b></sub-heading>
+<br>
+1. Beef Philly Cheesesteak
+2. Beef Burgers (various toppings)
+3. Beef Pastrami Sandwich with Mustard and Pickles
+4. Beef Reuben Sandwich with Corned Beef and Sauerkraut
+<br>
+<sub-heading><b>Specialties</b></sub-heading>
+<br>
+1. Beef Bourguignon with Braised Short Ribs
+2. Beef Carpaccio with Arugula and Parmesan Cheese
+3. Beef Skewers with Spicy Peanut Sauce
+4. Beef Osso Buco with Risotto and Gremolata</p>
+	</div>
+	<br><br>
+	<div class="box">
+    <h align="right"><b>Sushi</b></h>
+    <p>
+    	<sub-heading><b>Sushi</b></sub-heading>
+
+1. Classic Rolls
+   <li>  California Roll</li>
+   <li>  Salmon Roll</li>
+   <li>  Tuna Roll</li>
+   <br>
+2. Specialty Rolls
+    <li> Dragon Roll (Tempura Shrimp, Avocado, Eel Sauce)</li>
+    <li> Rainbow Roll (Crab, Cucumber, Avocado, Salmon, Tuna)</li>
+    <li> Philly Roll (Smoked Salmon, Cream Cheese, Cucumber)</li>
+    	<br>
+3. Sashimi (Raw Fish Slices)
+<br>
+    <li> Salmon</li>
+    <li> Tuna</li>
+    <li> Yellowtail</li>
+
+    </p>
+		
+	</div>
 	<style>
-	  section-1 {
-    border-radius:1%; 
-    width: 100; 
-    height: 100; 
-    position: center;
-    }
-		secction-2  {
-			height: 50;
-			width: 1000;
-			
+	    
+		.box {
+			width: 600px;
+			height: 330px;
+			border: 100%;
+            background-color: brown;  
+            padding: 10px;
+
 		}
-	
 	</style>
+
 </body>
 </html>
